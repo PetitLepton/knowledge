@@ -1,4 +1,4 @@
-![](https://www.pluralsight.com/blog/teams/7-steps-to-better-leadership-skills-with-patrick-kua)
+[Patrick Kua’s 7 tips for engineering leaders looking for an edge](https://www.pluralsight.com/blog/teams/7-steps-to-better-leadership-skills-with-patrick-kua)
 
 - Effective managers remove blockers and provide the tools their teams need to accomplish what they do best;
 - “They need a plan to stay up on what their team is doing, and also offer ways to help grow people so that they can get to a point where they can delegate those activities. It’s like the old saying—show one, do one, teach one.”
